@@ -1,0 +1,13 @@
+body {
+    background: linear-gradient(to right, #636363, #a2ab58);
+    text-align: center;
+}
+
+h1 { 
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 42px;
+}
+
+a {
+    margin: 8px;
+}
